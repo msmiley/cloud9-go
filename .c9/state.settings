@@ -4,14 +4,10 @@
         "@autosave": true,
         "@flat-dark": true,
         "@git": true,
-        "@go_completion": 0,
         "@mount": 0,
         "@plugin-manager": true,
         "@plugins": true,
         "@sdk": true,
         "@test": false
-    },
-    "installer": {
-        "json()": {}
     }
 }

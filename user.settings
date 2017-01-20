@@ -86,7 +86,7 @@
         "@smooth": false
     },
     "key-bindings": {
-        "@platform": "mac",
+        "@platform": "auto",
         "@preset": "default",
         "json()": [
             {
